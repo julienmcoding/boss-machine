@@ -1,4 +1,4 @@
-# Boss Machine (to conquer the world! )
+# Boss Machine (to conquer the world)
 
 ![](https://github.com/julienmcoding/boss-machine/blob/main/Capture.PNG)
 
